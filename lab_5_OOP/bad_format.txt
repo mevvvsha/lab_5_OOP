@@ -1,0 +1,1 @@
+UA111 Ivan NOT_A_DOUBLE
